@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=749BC2&height=300&section=header&text=Welcome%20to%20SeoYun's%20GitHub%20🐟%20&render&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=749BC2&height=300&section=header&text=Welcome%20to%20SeoYun's%20GitHub%20🐬%20&render&fontSize=50" />
 <!-- <img src="https://capsule-render.vercel.app/api?type=wave&fontColor=black&color=749BC2&height=300&section=header&text=Welcome%20to%20SeoYun's%20GitHub%20🐟&animation=twinkling&fontSize=35&fontAlignY=40 /> -->
 </div>
 <!--내용 부분-->
