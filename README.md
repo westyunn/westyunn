@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=westyunn&show_icons=true&theme=dracula" alt="Anurag's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=westyunn&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=westyunn&layout=compact" alt="Top Langs" />
 </div>
 
