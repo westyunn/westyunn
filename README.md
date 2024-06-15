@@ -34,14 +34,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   </div>
 </div>
-<br/>
+<!-- <br/>
 <h3 align="center">📚 Currently Studying 📚</h3>
 <div align="center">
 <div>
  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
   </div>
-</div>
+</div> -->
 <br/>
 <h3 align="center">💭Once I've Used💭</h3>
 <div align="center">
