@@ -76,7 +76,7 @@ Here are some ideas to get you started:
       src="https://img.shields.io/badge/s2yunn@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
   <a href="https://velog.io/@westyunn/posts">
-   <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@westyunn/posts"/>
+   <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@westyunn/posts"/>
   </a>
 </div>
 <br/>
